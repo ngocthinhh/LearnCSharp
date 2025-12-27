@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LearnCSharp.OOP
+namespace LearnCSharp.DesignPatterns.CreationalPatterns
 {
     internal class Test
     {
