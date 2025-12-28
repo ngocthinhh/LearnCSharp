@@ -1,1 +1,1 @@
-﻿Console.Write("abcdef\rxyz");
+﻿Console.Write("abcdef\f\fxyz");
