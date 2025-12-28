@@ -3,7 +3,7 @@ namespace LearnCSharp.Beginner
 {
     internal class OutPut
     {
-        void Main()
+        public void Main()
         {
             Console.Write("Just Display");
 
